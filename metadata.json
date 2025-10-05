@@ -1,0 +1,5 @@
+{
+  "name": "Time Dilation Explorer",
+  "description": "An interactive web application that simulates and explains the concept of time dilation using principles of special and general relativity. Explore how speed and gravity affect time, and learn about cosmic phenomena through an AI-powered celestialpedia.",
+  "requestFramePermissions": []
+}

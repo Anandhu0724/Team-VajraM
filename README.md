@@ -1,2 +1,20 @@
-# Team-VajraM
-CHRONO-SHIFT by Team Vajram is an app for calculating time dilation and finding habitable planets. It simplifies complex space concepts using interactive simulations, space visualizations, and learning modules to prepare humanity for interstellar exploration.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1-UqE5CpjtAIjT6hhLH1u1o7mgyEeQNlb
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
